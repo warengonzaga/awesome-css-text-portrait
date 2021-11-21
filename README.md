@@ -1,6 +1,6 @@
 # Awesome CSS Text Portrait [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Awesome list of CSS text portrait generator and builders.
+Awesome list of CSS Text Portrait Tutorials, Resources, Generators, and Builders. 😎
 
 ## Contents
 
