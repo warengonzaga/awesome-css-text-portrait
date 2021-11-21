@@ -1,4 +1,4 @@
-# Awesome CSS Portrait Generator [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome CSS Text Portrait [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Awesome list of CSS text portrait generator and builders.
 
@@ -12,4 +12,10 @@ List of open source projects.
 
 ### Builder
 
+- **[CSS Text Portrait Builder](https://github.com/warengonzaga/css-text-portrait-builder)** by [WarenGonzaga](https://github.com/warengonzaga)
+
 ### Generator
+
+- **[CSS Portrait Generator](https://github.com/princejoogie/css-portrait-gen)** by [princejoogie](https://github.com/princejoogie)
+- **[Text Portrait Generator](https://github.com/joshxfi/text-portrait-generator)** by [joshxfi
+](https://github.com/joshxfi)
