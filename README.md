@@ -20,4 +20,4 @@ List of open source projects.
 - **[Text Portrait Generator](https://github.com/joshxfi/text-portrait-generator)** by [joshxfi
 ](https://github.com/joshxfi)
 - **[CSS Text Portrait Effect](https://github.com/carlmagumpara/portrait-image-text)** by [carlmagumpara](https://github.com/carlmagumpara)
-- **[CSS Portrait Image Generator](https://github.com/jersoncarin-dev/CSS-Portrait-Image-Generator)** by [jersoncarin-dev](https://github.com/jersoncarin-dev)
+- **[CSS Portrait Image Generator](https://github.com/jersoncarin/css-portrait-image-generator)** by [jersoncarin](https://github.com/jersoncarin)
