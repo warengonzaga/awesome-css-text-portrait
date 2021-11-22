@@ -1,5 +1,9 @@
 # Awesome CSS Text Portrait [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+📢 Nominate ([@WarenGonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
+
+---
+
 Awesome list of CSS Text Portrait Tutorials, Resources, Generators, and Builders. 😎
 
 ## Contents
